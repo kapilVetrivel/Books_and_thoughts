@@ -11,4 +11,7 @@ Takeaways:
 * Dependent events and Statistical Fluctuations
 * Dependent events - actions that are linked to other actions and influence each other.
 * Statistical Fluctuations - variations in parameters of actions (such as cycle time, output) that occur over a duration.
+* Fluctuations do not average. They accumulate over time.
+* Role of plant managers - attempt to achieve a balanced plant - every resource exactly equal in capacity to demand from market.
+
 
