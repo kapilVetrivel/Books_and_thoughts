@@ -26,5 +26,10 @@ Takeaways:
   * Make sure bottleneck's time not wasted (idle in lunch break .
   * Not processing already defective parts.
   * Not working on parts not in current demand (spare parts).
-
+* A plant in which every resource is working all time, is inefficient.
+* 4-ways a material spends time inside plant
+ 1. Setup - time spent waiting for a resource (loading into a NC machine).
+ 2. Process - time spent in modifying the material (machining).
+ 3. Queue - time spent in waiting for the next resource.
+ 4. Wait - time spent waiting for another part availability, to be assembled together.
 
