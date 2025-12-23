@@ -12,6 +12,19 @@ Takeaways:
 * Dependent events - actions that are linked to other actions and influence each other.
 * Statistical Fluctuations - variations in parameters of actions (such as cycle time, output) that occur over a duration.
 * Fluctuations do not average. They accumulate over time.
-* Role of plant managers - attempt to achieve a balanced plant - every resource exactly equal in capacity to demand from market.
+* Role of plant managers - attempt to achieve a balanced plant - every resource exactly equal in capacity to demand from market.\
+
+* Bottleneck - a resource with capacity =< the demand upon it. otherwise a  non-bottleneck.
+* Demand must balance flow, not capacity [Rule 1].
+* Flow must be set tiny bit less than demand - else, drop in demand will lose money.
+
+* Total market demand = backlog orders + forecase for new orders (including internal and external sales).
+* Higher inventory follows the bottleneck.
+* Establish QC prior to bottleneck - allow only parts that fit the QC through it.
+
+* Optimizing Bottlenecks:
+  * Make sure bottleneck's time not wasted (idle in lunch break .
+  * Not processing already defective parts.
+  * Not working on parts not in current demand (spare parts).
 
 
