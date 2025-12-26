@@ -442,7 +442,7 @@ This is as much about **people and thinking** as it is about machines and schedu
 
 ### Further TOC Thinking Tools to Explore
 
-Two advanced tools you mentioned for further learning:
+Two advanced tools for further learning:
 
 1. **Conflict Clouds (Evaporating Cloud)**
    - A logical diagram to map **conflicting objectives**.
