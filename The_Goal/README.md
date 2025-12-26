@@ -27,9 +27,8 @@ Business finances can be simplified into three core components:
 | **Operational Expense (OE)** | Money flowing **OUT**          | Salaries, utilities, overhead, running the facility  |
 
 - **Net Income** is driven by:  
-  \[
-  \text{Net Income} = \text{Throughput} - \text{Operational Expense}
-  \]
+  - **Net Income** is driven by: **Net Income = Throughput - Operational Expense**
+
 
 - **Inventory** is money **locked inside** the business; reducing it (without hurting throughput) frees up capital.
 
@@ -487,5 +486,3 @@ Use this checklist when applying *The Goal* / TOC in a real environment:
 - [ ] Are you actively addressing **inertia** and old habits that might now be the real constraint?
 
 ---
-
-This structure is designed to read cleanly on GitHub: clear headings, short paragraphs, consistent formatting, and tables where comparisons help. You can paste this into a `README.md` or `the-goal-notes.md` in your repository and it will render in a reader-friendly way.
