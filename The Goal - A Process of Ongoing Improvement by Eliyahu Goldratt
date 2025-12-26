@@ -41,6 +41,28 @@ Takeaways:
 * FIxed overhead variance expense in the Income statement - due to inventory reduction (https://www.perplexity.ai/search/12354d0e-38fd-4ad1-bb46-f794287fcc91#3)
 
 * CC- Capacity Constraint Resources
+* Throughput has more dependency on inventory than operational expenses.
 
+* The Process of Ongoing Improvement:
+ 1. IDENTIFY the system's constraint.
+ 2. Decide how to EXPLOIT the system's constraint.
+ 3. SUBORDINATE everything else (processes) to run to the tune of the constraint.
+ 4. ELEVATE the system's constraint (increase flow through it).
+ 5. WANRING! If constraint changes, back to step 1, but do not allow INERTIA to cause a system's constraint.
+* Nature of bottlenecks can be many : machine, insufficient market demand/material supply, etc..
+* Or "Constraint"
+
+* Build inventory in front of bottleneck, so if upstream supply is down, bottleneck doesn't stop.
+* Non-bottlenecks need to have higher capacity than bottlenecks - so inventory can be filled up ay bottleneck when things go wrong upstream.
+
+* Questions to addressing the core problems:
+ * What to change?
+ * What to change to?
+ * How to cause the change?
+
+--------------------------------------------
+Things to learn further:
+* Conflict Clouds
+* Current Reality Tree
 
 
